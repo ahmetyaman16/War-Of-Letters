@@ -64,6 +64,7 @@ This project was developed as part of the **Principles of Programming Languages*
 ## 📁 File Structure
 
 - `WarOfLetters.hs` – Main source code (game logic)
+- `TestCases.pdf` - Visual examples of gameplay scenarios (Firsts win, Z wins, and Draw cases)
 
 ---
 
